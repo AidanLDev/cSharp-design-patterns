@@ -12,3 +12,4 @@ C:\Users\Aidan\Repos\cSharp-design-patterns\DesignPatterns\obj\Debug\net10.0\ref
 C:\Users\Aidan\Repos\cSharp-design-patterns\DesignPatterns\obj\Debug\net10.0\DesignPatterns.pdb
 C:\Users\Aidan\Repos\cSharp-design-patterns\DesignPatterns\obj\Debug\net10.0\DesignPatterns.genruntimeconfig.cache
 C:\Users\Aidan\Repos\cSharp-design-patterns\DesignPatterns\obj\Debug\net10.0\ref\DesignPatterns.dll
+C:\Users\Aidan\Repos\cSharp-design-patterns\DesignPatterns\obj\Debug\net10.0\DesignPatterns.sourcelink.json

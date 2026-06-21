@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Aidan\\Repos\\cSharp-design-patterns\\DesignPatterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F05DD21-0DFA-41CA-94DB-2B31205D6AD2}|DesignPatterns.csproj|c:\\users\\aidan\\repos\\csharp-design-patterns\\designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F05DD21-0DFA-41CA-94DB-2B31205D6AD2}|DesignPatterns.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2541C725-F1B4-5AD8-C585-5D33D7FD3818}|DesignPatterns.csproj|c:\\users\\aidan\\repos\\csharp-design-patterns\\designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2541C725-F1B4-5AD8-C585-5D33D7FD3818}|DesignPatterns.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2541C725-F1B4-5AD8-C585-5D33D7FD3818}|DesignPatterns.csproj|c:\\users\\aidan\\repos\\csharp-design-patterns\\designpatterns\\principles\\solid\\liskovsubsitution\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2541C725-F1B4-5AD8-C585-5D33D7FD3818}|DesignPatterns.csproj|solutionrelative:principles\\solid\\liskovsubsitution\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2541C725-F1B4-5AD8-C585-5D33D7FD3818}|DesignPatterns.csproj|c:\\users\\aidan\\repos\\csharp-design-patterns\\designpatterns\\principles\\solid\\liskovsubsitution\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2541C725-F1B4-5AD8-C585-5D33D7FD3818}|DesignPatterns.csproj|solutionrelative:principles\\solid\\liskovsubsitution\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2541C725-F1B4-5AD8-C585-5D33D7FD3818}|DesignPatterns.csproj|c:\\users\\aidan\\repos\\csharp-design-patterns\\designpatterns\\principles\\solid\\liskovsubsitution\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2541C725-F1B4-5AD8-C585-5D33D7FD3818}|DesignPatterns.csproj|solutionrelative:principles\\solid\\liskovsubsitution\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +36,49 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Aidan\\Repos\\cSharp-design-patterns\\DesignPatterns\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAA8wDgAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-16T20:30:49.646Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\Aidan\\Repos\\cSharp-design-patterns\\DesignPatterns\\Principles\\SOLID\\LiskovSubsitution\\Shape.cs",
+              "RelativeDocumentMoniker": "Principles\\SOLID\\LiskovSubsitution\\Shape.cs",
+              "ToolTip": "C:\\Users\\Aidan\\Repos\\cSharp-design-patterns\\DesignPatterns\\Principles\\SOLID\\LiskovSubsitution\\Shape.cs",
+              "RelativeToolTip": "Principles\\SOLID\\LiskovSubsitution\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T10:17:16.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\Aidan\\Repos\\cSharp-design-patterns\\DesignPatterns\\Principles\\SOLID\\LiskovSubsitution\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Principles\\SOLID\\LiskovSubsitution\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\Aidan\\Repos\\cSharp-design-patterns\\DesignPatterns\\Principles\\SOLID\\LiskovSubsitution\\Rectangle.cs",
+              "RelativeToolTip": "Principles\\SOLID\\LiskovSubsitution\\Rectangle.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T10:15:01.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\Aidan\\Repos\\cSharp-design-patterns\\DesignPatterns\\Principles\\SOLID\\LiskovSubsitution\\Square.cs",
+              "RelativeDocumentMoniker": "Principles\\SOLID\\LiskovSubsitution\\Square.cs",
+              "ToolTip": "C:\\Users\\Aidan\\Repos\\cSharp-design-patterns\\DesignPatterns\\Principles\\SOLID\\LiskovSubsitution\\Square.cs",
+              "RelativeToolTip": "Principles\\SOLID\\LiskovSubsitution\\Square.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T10:01:06.181Z",
               "EditorCaption": ""
             }
           ]
